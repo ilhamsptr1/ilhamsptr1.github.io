@@ -1,0 +1,10 @@
+{
+  "version": "8.2.2",
+  "build": 1163,
+  "buildNumber": 1163,
+  "versionCode": 84,
+  "apkSizeBytes": 24612107,
+  "apkUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/latest/download/IMusic-Release.apk",
+  "downloadUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/latest/download/IMusic-Release.apk",
+  "changelog": "v8.2.2 - Perbaikan playback error 'Stream failed: stream interrupted' & status 'Upgrading Quality' tersangkut: refresh signature Qobuz pada HTTP 401 + backoff 429 tracks.monochrome.st, perbaikan race condition pembatalan DynamicResolvingMediaSource, fallback otomatis ke BitChord Hi-Fi/YouTube Music jika modul stream gagal, dan pembersihan status upgrading saat gagal/idle."
+}
