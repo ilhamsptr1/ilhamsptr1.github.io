@@ -1,0 +1,13 @@
+{
+  "version": "8.2.5",
+  "build": 1166,
+  "buildNumber": 1166,
+  "versionCode": 87,
+  "tag": "v8.2.5",
+  "title": "IMusic v8.2.5 (build#1166)",
+  "apkName": "IMusic-Release-v8.2.5-b1166.apk",
+  "apkSizeBytes": 24628495,
+  "apkUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/download/v8.2.5/IMusic-Release.apk",
+  "downloadUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/download/v8.2.5/IMusic-Release.apk",
+  "changelog": "v8.2.5 - Perbaikan sistem updater dalam aplikasi (APK belum terupdate / terus meminta update): pemisahan nama file cache APK per versi & versionCode, verifikasi isi paket APK via PackageManager sebelum pemasangan, penanganan redirect & validasi ukuran unduhan, pengecekan versionCode saat deteksi pembaruan, serta pembersihan otomatis notifikasi dan file APK lama."
+}
