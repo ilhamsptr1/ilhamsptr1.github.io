@@ -1,0 +1,13 @@
+{
+  "version": "8.3.10",
+  "build": 1177,
+  "buildNumber": 1177,
+  "versionCode": 98,
+  "tag": "v8.3.10",
+  "title": "IMusic v8.3.10 (build#1177)",
+  "apkName": "IMusic-Release-v8.3.10-b1177.apk",
+  "apkSizeBytes": 23648121,
+  "apkUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/download/v8.3.10/IMusic-Release.apk",
+  "downloadUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/download/v8.3.10/IMusic-Release.apk",
+  "changelog": "v8.3.10 - Penyempurnaan UX lanjutan: bar aksi cepat Now Playing yang lebih jelas (Lirik, Sleep Timer dengan status aktif, Output Audio, dan Antrean dengan target sentuh 48 dp dan label ringkas), sticky filter bar di Beranda (Semua, Musik, Playlist, Video) yang tetap menempel saat scroll sambil menyembunyikan header atas dengan mulus, konsistensi navigasi menu Unduhan di Perpustakaan yang selalu membuka halaman Unduhan & Lokal berbahasa Indonesia/Inggris, serta notifikasi toast dengan tombol Urungkan saat melepas item sematan."
+}
